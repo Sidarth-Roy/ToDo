@@ -1,0 +1,11 @@
+h1{
+font-family: 'Lora', serif;
+font-family: 'Orelega One', cursive;
+font-family: 'Oswald', sans-serif;
+font-size: 100px;
+font-weight: 700;
+}
+.container{
+    background-color:rgba(241, 241, 241, 0.788);
+    border-radius: 20px;
+}
